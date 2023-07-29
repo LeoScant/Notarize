@@ -44,7 +44,7 @@ To use this smart contract, follow the steps below:
 
 ## License
 
-This smart contract is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This smart contract is released under the MIT License.
 
 ## Acknowledgments
 
